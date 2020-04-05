@@ -1,5 +1,5 @@
 # Gympoint
-Desafio Final Bootcamp Rocketseat
+Desafio Final Bootcamp GoStack 9 da  Rocketseat
 
 Para rodar o backend:
 yarn dev
